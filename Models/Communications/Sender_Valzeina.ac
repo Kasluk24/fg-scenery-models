@@ -5,7 +5,7 @@ MATERIAL "red" rgb 1.000 0.000 0.000  amb 0.800 0.800 0.800  emis 0.000 0.000 0.
 MATERIAL "white" rgb 1.000 1.000 1.000  amb 0.800 0.800 0.800  emis 0.000 0.000 0.000  spec 0.000 0.000 0.000  shi 64 trans 0.000
 OBJECT world
 name "Blender_exporter_v3.3__Sender_Valzeina.ac"
-kids 5
+kids 4
 OBJECT poly
 name "Base"
 data 8
@@ -4719,12 +4719,6 @@ refs 4
 19 0.875 0.5
 17 0.875 0.75
 21 0.625 0.75
-kids 0
-OBJECT poly
-name "MiddleBase"
-data 8
-Cube.016
-crease 40.0
 kids 0
 OBJECT poly
 name "TopRed"
